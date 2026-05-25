@@ -17,6 +17,6 @@ This repository serves as my daily progress tracker where I document my learning
 
 Learning consistently, building projects, and improving technical skills through practical implementation.
 
-## Timeline 📊
+# Timeline 📊
 - (in progress)
 
