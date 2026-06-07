@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-Active_Development-DC143C?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/STATUS-Active_Development-DC143C?style=for-the-badge&labelColor=000000"/>
 
-  <img src="https://img.shields.io/badge/PYTHON-Projects-DC143C?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/PYTHON-Projects-DC143C?style=for-the-badge&logo=python&logoColor=white&labelColor=000000"/>
 
-  <img src="https://img.shields.io/badge/LEVEL-Foundation-DC143C?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/FOUNDATION-Level-DC143C?style=for-the-badge&labelColor=000000"/>
 
-  <img src="https://img.shields.io/badge/PROFILE-View_Profile-DC143C?style=for-the-badge&labelColor=111111" />
+  <img src="https://komarev.com/ghpvc/?username=Nobhino-Nk&style=for-the-badge&color=DC143C&label=PROFILE+VIEWS"/>
 </p>
 
 ---
