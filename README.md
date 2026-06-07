@@ -1,26 +1,26 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=FFD700&text=DAILY%20LEARNING%20%26%20PROGRESS&fontColor=000000&fontAlignY=40&desc=Documenting%20Growth%20One%20Commit%20At%20A%20Time&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=240B36&text=DAILY%20LEARNING%20PROGRESS%20REPOSITORY&fontColor=FFFFFF&fontAlignY=40&desc=Documenting%20Growth%20One%20Day%20At%20A%20Time&descAlignY=60"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=Welcome+To+My+Coding+Journey;Learning+Consistently+Through+Practice;Building+Projects+And+Real+World+Skills;Tracking+Progress+One+Day+At+A+Time"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6A0DAD&center=true&vCenter=true&width=900&lines=Welcome+To+My+Coding+Journey;Learning+Consistently+Through+Practice;Building+Projects+And+Real+World+Skills;Tracking+Progress+One+Day+At+A+Time"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-Active_Learning-FFD700?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/STATUS-Active_Learning-4B0082?style=for-the-badge&labelColor=000000"/>
 
-  <img src="https://img.shields.io/badge/PYTHON-Development-FFD700?style=for-the-badge&logo=python&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/PYTHON-Development-4B0082?style=for-the-badge&logo=python&logoColor=white&labelColor=000000"/>
 
-  <img src="https://img.shields.io/badge/REPOSITORY-Main_Hub-FFD700?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/REPOSITORY-Main_Hub-4B0082?style=for-the-badge&labelColor=000000"/>
 
-  <img src="https://img.shields.io/badge/LEARNING-Journey-FFD700?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/LEARNING-Journey-4B0082?style=for-the-badge&labelColor=000000"/>
 
-  <img src="https://komarev.com/ghpvc/?username=Nobhino-Nk&style=for-the-badge&color=FFD700&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=Nobhino-Nk&style=for-the-badge&color=4B0082&label=PROFILE+VIEWS"/>
 </p>
 
 ---
 
-# 🚀 Daily Learning & Progress Repository
+# 🚀 Daily Learning Progress Repository
 
 > *A collection of learning, experimentation, projects, and continuous improvement.*
 
@@ -111,5 +111,5 @@ Learn • Practice • Build • Improve • Repeat
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=FFD700"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=240B36"/>
 </p>
