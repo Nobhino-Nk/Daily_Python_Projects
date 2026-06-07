@@ -4,7 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=800&lines=Learning+By+Building+Real+Projects;From+Fundamentals+To+Advanced+Development;One+Project+At+A+Time"/>
 </p><p align="center">
   <img src="https://img.shields.io/badge/STATUS-Active_Development-32CD32?style=for-the-badge&labelColor=000000"/>  <img src="https://img.shields.io/badge/PYTHON-Projects-32CD32?style=for-the-badge&logo=python&logoColor=white&labelColor=000000"/>  <img src="https://img.shields.io/badge/LEARNING-Progression-32CD32?style=for-the-badge&labelColor=000000"/>  <img src="https://komarev.com/ghpvc/?username=Nobhino-Nk&style=for-the-badge&color=32CD32&label=PROFILE+VIEWS"/>
-</p>---
+</p>
+
+---
 
 🚀 Project Works
 
