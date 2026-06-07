@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=8B0000&text=FOUNDATION%20LEVEL&fontColor=ffffff&fontAlignY=40&desc=Building%20Strong%20Programming%20Fundamentals&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=32CD32&text=FOUNDATION%20LEVEL&fontColor=000000&fontAlignY=40&desc=Building%20Strong%20Programming%20Fundamentals&descAlignY=60"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=700&lines=Building+Strong+Programming+Fundamentals;Learning+Through+Projects;One+Project+At+A+Time"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=700&lines=Building+Strong+Programming+Fundamentals;Learning+Through+Projects;One+Project+At+A+Time"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-Active_Development-DC143C?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/STATUS-Active_Development-32CD32?style=for-the-badge&labelColor=000000"/>
 
-  <img src="https://img.shields.io/badge/PYTHON-Projects-DC143C?style=for-the-badge&logo=python&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/PYTHON-Projects-32CD32?style=for-the-badge&logo=python&logoColor=white&labelColor=000000"/>
 
-  <img src="https://img.shields.io/badge/FOUNDATION-Level-DC143C?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/FOUNDATION-Level-32CD32?style=for-the-badge&labelColor=000000"/>
 
-  <img src="https://komarev.com/ghpvc/?username=Nobhino-Nk&style=for-the-badge&color=DC143C&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=Nobhino-Nk&style=for-the-badge&color=32CD32&label=PROFILE+VIEWS"/>
 </p>
 
 ---
@@ -44,6 +44,7 @@ The goal is to **build with them.**
 | File Handling | Real-World Scenarios |
 
 ---
+
 ---
 
 ## 🛠️ Project Collection
@@ -101,6 +102,7 @@ Personal Expense Record System
 ```
 
 ---
+
 ---
 
 ## 🚀 Learning Roadmap
@@ -144,7 +146,6 @@ The objective is to:
 ### 💡 Note
 
 > Every advanced system begins with fundamental concepts. This section focuses on building those fundamentals through consistent practice, experimentation, and project-based learning..
->
 
 ---
 
@@ -155,5 +156,5 @@ Learning • Building • Improving • Repeating
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=8B0000"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=32CD32"/>
 </p>
