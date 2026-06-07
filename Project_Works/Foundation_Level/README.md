@@ -44,6 +44,7 @@ The goal is to **build with them.**
 | File Handling | Real-World Scenarios |
 
 ---
+---
 
 ## 🛠️ Project Collection
 
@@ -100,6 +101,7 @@ Personal Expense Record System
 ```
 
 ---
+---
 
 ## 🚀 Learning Roadmap
 
@@ -147,11 +149,9 @@ The objective is to:
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nobhino-Nk&theme=highcontrast&hide_border=true"/>
-</p>
-
-<p align="center">
-  ⭐Learning • Building • Improving • Repeating⭐
+                    ⭐
+Learning • Building • Improving • Repeating
+                    ⭐
 </p>
 
 <p align="center">
