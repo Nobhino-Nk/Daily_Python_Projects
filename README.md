@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=4B0082&text=CODEX%20JOURNEY&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=Daily%20Learning%20%7C%20Projects%20%7C%20Experiments%20%7C%20Growth&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=6A0DAD&text=CODEX%20JOURNEY&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=Daily%20Learning%20%7C%20Projects%20%7C%20Experiments%20%7C%20Growth&descAlignY=60&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=900&lines=Welcome+To+My+Coding+Journey;Learning+Consistently+Through+Practice;Building+Projects+And+Real+World+Skills;Tracking+Progress+One+Day+At+A+Time"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4B0082&center=true&vCenter=true&width=900&lines=Welcome+To+My+Coding+Journey;Learning+Consistently+Through+Practice;Building+Projects+And+Real+World+Skills;Tracking+Progress+One+Day+At+A+Time"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-Active_Learning-BB86FC?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/STATUS-Active_Learning-4B0082?style=for-the-badge&labelColor=000000"/>
 
-  <img src="https://img.shields.io/badge/PYTHON-Development-BB86FC?style=for-the-badge&logo=python&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/PYTHON-Development-4B0082?style=for-the-badge&logo=python&logoColor=white&labelColor=000000"/>
 
-  <img src="https://img.shields.io/badge/REPOSITORY-Main_Hub-BB86FC?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/REPOSITORY-Main_Hub-4B0082?style=for-the-badge&labelColor=000000"/>
 
-  <img src="https://img.shields.io/badge/LEARNING-Journey-BB86FC?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/LEARNING-Journey-4B0082?style=for-the-badge&labelColor=000000"/>
 
-  <img src="https://komarev.com/ghpvc/?username=Nobhino-Nk&style=for-the-badge&color=BB86FC&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=Nobhino-Nk&style=for-the-badge&color=4B0082&label=PROFILE+VIEWS"/>
 </p>
 
 ---
@@ -111,5 +111,5 @@ Learn • Practice • Build • Improve • Repeat
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=4B0082"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=6A0DAD"/>
 </p>
