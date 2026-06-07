@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=240B36&text=DAILY%20LEARNING%20PROGRESS%20REPOSITORY&fontColor=FFFFFF&fontAlignY=40&desc=Documenting%20Growth%20One%20Day%20At%20A%20Time&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=240B36&text=CODEX%20JOURNEY&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=Daily%20Learning%20%7C%20Projects%20%7C%20Experiments%20%7C%20Growth&descAlignY=60&descSize=18"/>
 </p>
 
 <p align="center">
