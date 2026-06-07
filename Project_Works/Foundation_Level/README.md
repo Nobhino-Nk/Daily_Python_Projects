@@ -7,9 +7,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active_Development-8B0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-Projects-black?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Foundation-Level-DC143C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-Active_Development-DC143C?style=for-the-badge&labelColor=111111" />
+
+  <img src="https://img.shields.io/badge/PYTHON-Projects-DC143C?style=for-the-badge&labelColor=111111" />
+
+  <img src="https://img.shields.io/badge/LEVEL-Foundation-DC143C?style=for-the-badge&labelColor=111111" />
+
+  <img src="https://img.shields.io/badge/PROFILE-View_Profile-DC143C?style=for-the-badge&labelColor=111111" />
 </p>
 
 ---
@@ -147,7 +151,7 @@ The objective is to:
 </p>
 
 <p align="center">
-  ⭐ Learning • Building • Improving • Repeating ⭐
+  ⭐Learning • Building • Improving • Repeating⭐
 </p>
 
 <p align="center">
